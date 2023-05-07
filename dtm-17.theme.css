@@ -10,5 +10,5 @@
 @import url(https://xyzenix.github.io/XYZenixThemes/DTM-17/DTM-17.css);
 :root {
  --showRtcConnectionStatusIcon: block; /* show the vc ping/status icon | block = show | none = hide */
- --jumboEmojiSize: 2rem; /* Old - 2rem | New - 3rem */
+ --jumboEmojiSize: 3rem; /* Old - 2rem | New - 3rem */
 }
